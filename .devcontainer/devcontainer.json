@@ -1,0 +1,4 @@
+{
+  "name": "VM",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+}
